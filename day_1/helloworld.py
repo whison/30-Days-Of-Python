@@ -15,3 +15,4 @@ print(type('Asabeneh'))          # String
 print(type([1, 2, 3]))           # List
 print(type({'name':'Asabeneh'})) #Dictionary
 print(type({9.8, 3.14, 2.7}))    #Tuple
+print(type((5, 6, 7)))
